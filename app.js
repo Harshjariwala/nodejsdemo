@@ -39,5 +39,3 @@ app.use(error.notFound);
 app.use(error.handler);
 
 module.exports = app;
-
-
